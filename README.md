@@ -7,8 +7,8 @@ Tested **only** on [opencode-termux v0.2.1](https://github.com/guysoft/opencode-
 ## Install (No Internet Required)
 
 ```bash
-tar -xzf micode-offline-package.tar.gz
-cd micode-offline-package
+git clone https://github.com/wangzheruoyun/micode-termux.git
+cd micode-termux
 ./install.sh
 ```
 
